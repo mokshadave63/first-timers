@@ -16,6 +16,22 @@ const data = [
 
   // Copy the above template and paste it below this line
 ]
+[
+  // ======================== <Your name> Profile STARTS ========================
+  {
+    id: 1,
+    name: "Moksha",
+    branch: "CSE",
+    introduction: "Hey, Moksha here",
+    skills: ["JavaScript", "Flutter"],
+    socialsHandles: {
+      github: "mokshadave63gu",
+      twitter: "add your twitter handle",
+      linkedin: "add your linkedin handle",
+    },
+  },
+  // ======================== <Your name> Profile ENDS ==========================
 
 // To be used later
 export default data
+
