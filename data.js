@@ -25,7 +25,7 @@ const data = [
     introduction: "Hey, Moksha here",
     skills: ["JavaScript", "Flutter"],
     socialsHandles: {
-      github: "mokshadave63gu",
+      github: "mokshadave63",
       twitter: "add your twitter handle",
       linkedin: "add your linkedin handle",
     },
